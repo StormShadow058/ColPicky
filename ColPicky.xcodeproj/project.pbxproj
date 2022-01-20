@@ -11,6 +11,7 @@
 		7F5DB7E72799843400369477 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5DB7E62799843400369477 /* ContentView.swift */; };
 		7F5DB7E92799843600369477 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F5DB7E82799843600369477 /* Assets.xcassets */; };
 		7F5DB7EC2799843600369477 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F5DB7EB2799843600369477 /* Preview Assets.xcassets */; };
+		7F5DB7F32799846500369477 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5DB7F22799846500369477 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7F5DB7E62799843400369477 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7F5DB7E82799843600369477 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F5DB7EB2799843600369477 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7F5DB7F22799846500369477 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7F5DB7E42799843400369477 /* ColPickyApp.swift */,
 				7F5DB7E62799843400369477 /* ContentView.swift */,
+				7F5DB7F22799846500369477 /* SliderView.swift */,
 				7F5DB7E82799843600369477 /* Assets.xcassets */,
 				7F5DB7EA2799843600369477 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F5DB7F32799846500369477 /* SliderView.swift in Sources */,
 				7F5DB7E72799843400369477 /* ContentView.swift in Sources */,
 				7F5DB7E52799843400369477 /* ColPickyApp.swift in Sources */,
 			);
